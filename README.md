@@ -1,4 +1,4 @@
-                                                                        Cu-S-O Predominance Diagram Plot
+                                                               Cu-S-O Predominance Diagram Plot
 
 1.Open the colab link or .py code provided in zip file using browser or appropiate python interpreter like PyCharm respectively.
 
